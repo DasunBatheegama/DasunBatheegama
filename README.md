@@ -118,13 +118,6 @@ Modern frontend application with TypeScript.
 - 🌐 Portfolio: [dasunbatheegama.com](https://dasunbatheegama.com)
 - 📧 Feel free to reach out for collaborations or opportunities!
 
-## ⚡ Fun Facts
-
-- 📝 Grammar perfectionist with literal hate for spelling mistakes (Grammar Pedantry Syndrome!)
-- 🌐 Non-native English speaker with proven equal fluency in US/UK variants
-- 🎯 Perfectionist approach to code and content
-- 🚀 Started from Trainee Associate and advanced to Senior level
-
 ---
 
 <div align="center">
