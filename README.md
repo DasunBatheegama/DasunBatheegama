@@ -10,13 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** and **Technical Writer** with 5+ years of industry experience. I specialize in building scalable applications and creating high-quality technical content. Currently working remotely for well-known tech platforms including Baeldung and Lokalise.
+I'm currently studying **Computer Science** and am passionate about full stack web and mobile development, as well as AI/ML. I have also completed a 1-year internship. I am a **Software Engineer** and **Technical Writer** with 5+ years of industry experience. I specialize in building scalable applications and creating high-quality technical content. Currently working remotely for well-known tech platforms including Baeldung and Lokalise.
 
-- 🎓 **BEng. (Hons) Software Engineering** Graduate
-- 💼 Former **Senior Software Engineer** at Dialog Axiata Inc. & Zone24x7 Inc.
+- 🎓 **BEng. (Hons) Computer Science** (graduating in 2027)
 - ✍️ **Technical Writer** specializing in both theoretical and practical content
-- 🌍 Based in **Negombo, Sri Lanka**
-- 📝 Certified **EFSET EXPRESS High Proficiency (CEFR C1/C2)** in English
+- 🌍 Based in **Galle, Sri Lanka**
 
 ## 💻 Tech Stack
 
