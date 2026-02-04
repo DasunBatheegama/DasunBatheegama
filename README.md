@@ -99,19 +99,6 @@ Modern frontend application with TypeScript.
 - AI/ML Integration in Web Applications
 - Next.js & React Advanced Patterns
 
-## 💼 Professional Experience
-
-**Technical Writer** | Remote  
-*Baeldung, Lokalise & Multiple Tech Platforms*
-- Creating error-free, non-plagiarized technical articles
-- Specializing in both US/UK English variants
-- Content editing and proofreading for tech platforms
-
-**Senior Software Engineer** | Dialog Axiata Inc. & Zone24x7 Inc.  
-- Developed and maintained enterprise-level applications
-- Worked with microservices architecture and REST APIs
-- Collaborated with global teams serving millions of customers
-
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: [linkedin.com/in/dasunbatheegama](https://www.linkedin.com/in/dasunbatheegama)
