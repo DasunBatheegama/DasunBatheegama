@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-
+I'm currently studying **Computer Science** and am passionate about full stack web and mobile development, as well as AI/ML. I have also completed a 1-year internship.
 - 🎓 **BEng. (Hons) Computer Science** (graduating in 2027)
 - ✍️ **Technical Writer** specializing in both theoretical and practical content
 - 🌍 Based in **Galle, Sri Lanka**
